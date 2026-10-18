@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bharat-Mugdha//Shubh Vivah//MR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:डॉ. भरत आणि डॉ. मुग्धा — श
+ ुभविवाह
+BEGIN:VEVENT
+UID:e4-mr@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T013000Z
+DTEND:20261122T033000Z
+SUMMARY:लावाँ फेरे · डॉ. भरत आणि डॉ.
+  मुग्धा
+LOCATION:गुरुद्वारा श्री गुरु सिं
+ ह सभा\, जवाहर नगर\, जयपूर
+DESCRIPTION:सकाळी 7 वाजता\nडॉ. भरत आणि 
+ डॉ. मुग्धा — शुभविवाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:लावाँ फेरे
+END:VALARM
+END:VEVENT
+END:VCALENDAR

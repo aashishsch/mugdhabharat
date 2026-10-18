@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bharat-Mugdha//Shubh Vivah//MR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:डॉ. भरत आणि डॉ. मुग्धा — श
+ ुभविवाह
+BEGIN:VEVENT
+UID:e7-mr@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T074500Z
+DTEND:20261122T084500Z
+SUMMARY:पाणिग्रहण संस्कार · डॉ. भर
+ त आणि डॉ. मुग्धा
+LOCATION:रमाडा\, राजा पार्क\, जयपूर
+DESCRIPTION:दुपारी 1:15 वाजल्यापासून\n
+ डॉ. भरत आणि डॉ. मुग्धा — शुभवि
+ वाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:पाणिग्रहण संस्कार
+END:VALARM
+END:VEVENT
+END:VCALENDAR

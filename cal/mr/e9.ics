@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bharat-Mugdha//Shubh Vivah//MR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:डॉ. भरत आणि डॉ. मुग्धा — श
+ ुभविवाह
+BEGIN:VEVENT
+UID:e9-mr@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T114500Z
+DTEND:20261122T131500Z
+SUMMARY:डोली व पाठवणी · डॉ. भरत आणि 
+ डॉ. मुग्धा
+LOCATION:रमाडा\, राजा पार्क\, जयपूर
+DESCRIPTION:सायं. 5:15 वाजता\nडॉ. भरत आणि
+  डॉ. मुग्धा — शुभविवाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:डोली व पाठवणी
+END:VALARM
+END:VEVENT
+END:VCALENDAR

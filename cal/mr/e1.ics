@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bharat-Mugdha//Shubh Vivah//MR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:डॉ. भरत आणि डॉ. मुग्धा — श
+ ुभविवाह
+BEGIN:VEVENT
+UID:e1-mr@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261120T123000Z
+DTEND:20261120T163000Z
+SUMMARY:मेहंदी सोहळा (वधू पक्ष) · ड
+ ॉ. भरत आणि डॉ. मुग्धा
+LOCATION:कान्हा बँक्वेट हॉल\, वैशा
+ ली नगर\, जयपूर
+DESCRIPTION:सायं. 6 वाजल्यापासून\nडॉ. 
+ भरत आणि डॉ. मुग्धा — शुभविवा
+ ह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:मेहंदी सोहळा (वधू पक्ष)
+END:VALARM
+END:VEVENT
+END:VCALENDAR

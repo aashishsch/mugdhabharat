@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bharat-Mugdha//Shubh Vivah//MR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:डॉ. भरत आणि डॉ. मुग्धा — श
+ ुभविवाह
+BEGIN:VEVENT
+UID:e5-mr@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T050000Z
+DTEND:20261122T063000Z
+SUMMARY:सेहराबंदी व घुडचढी · डॉ. भ
+ रत आणि डॉ. मुग्धा
+LOCATION:मंदिर श्री स्वामी श्री ग
+ ंगादास जी महाराज\, जयपूर
+DESCRIPTION:सकाळी 10:30 वाजता\nडॉ. भरत आण
+ ि डॉ. मुग्धा — शुभविवाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:सेहराबंदी व घुडचढी
+END:VALARM
+END:VEVENT
+END:VCALENDAR

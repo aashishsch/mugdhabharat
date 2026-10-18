@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bharat-Mugdha//Shubh Vivah//MR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:डॉ. भरत आणि डॉ. मुग्धा — श
+ ुभविवाह
+BEGIN:VEVENT
+UID:e6-mr@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T064500Z
+DTEND:20261122T074500Z
+SUMMARY:वरमाला · डॉ. भरत आणि डॉ. मुग
+ ्धा
+LOCATION:रमाडा\, राजा पार्क\, जयपूर
+DESCRIPTION:दुपारी 12:15 वाजल्यापासून\n
+ डॉ. भरत आणि डॉ. मुग्धा — शुभवि
+ वाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:वरमाला
+END:VALARM
+END:VEVENT
+END:VCALENDAR

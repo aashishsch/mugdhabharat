@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bharat-Mugdha//Shubh Vivah//MR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:डॉ. भरत आणि डॉ. मुग्धा — श
+ ुभविवाह
+BEGIN:VEVENT
+UID:e2-mr@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261121T053000Z
+DTEND:20261121T093000Z
+SUMMARY:हळद–मेहंदी · डॉ. भरत आणि ड
+ ॉ. मुग्धा
+LOCATION:रमाडा\, राजा पार्क\, जयपूर
+DESCRIPTION:सकाळी 11 वाजल्यापासून · भ
+ ोजन: दुपारी 1 वाजल्यापासून\nड
+ ॉ. भरत आणि डॉ. मुग्धा — शुभविव
+ ाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:हळद–मेहंदी
+END:VALARM
+END:VEVENT
+END:VCALENDAR

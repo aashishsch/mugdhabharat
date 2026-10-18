@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bharat-Mugdha//Shubh Vivah//MR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:डॉ. भरत आणि डॉ. मुग्धा — श
+ ुभविवाह
+BEGIN:VEVENT
+UID:e3-mr@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261121T133000Z
+DTEND:20261121T173000Z
+SUMMARY:संगीत संध्या · डॉ. भरत आणि 
+ डॉ. मुग्धा
+LOCATION:रमाडा\, राजा पार्क\, जयपूर
+DESCRIPTION:सायं. 7 वाजल्यापासून\nडॉ. 
+ भरत आणि डॉ. मुग्धा — शुभविवा
+ ह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:संगीत संध्या
+END:VALARM
+END:VEVENT
+END:VCALENDAR
