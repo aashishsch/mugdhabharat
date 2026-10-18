@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bharat-Mugdha//Shubh Vivah//HI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:डॉ. भरत संग डॉ. मुग्धा — श
+ ुभ विवाह
+BEGIN:VEVENT
+UID:e1-hi@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261120T123000Z
+DTEND:20261120T163000Z
+SUMMARY:मेहंदी रस्म (कन्या पक्ष) · 
+ डॉ. भरत संग डॉ. मुग्धा
+LOCATION:कान्हा बैंक्वेट हॉल\, वैश
+ ाली नगर\, जयपुर
+DESCRIPTION:सायं 6 बजे से\nडॉ. भरत संग 
+ डॉ. मुग्धा — शुभ विवाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:मेहंदी रस्म (कन्या पक्ष)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e2-hi@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261121T053000Z
+DTEND:20261121T093000Z
+SUMMARY:हल्दी–मेहंदी · डॉ. भरत संग
+  डॉ. मुग्धा
+LOCATION:रमाडा\, राजा पार्क\, जयपुर
+DESCRIPTION:प्रातः 11 बजे से · भोजन: दो
+ पहर 1 बजे से\nडॉ. भरत संग डॉ. मु
+ ग्धा — शुभ विवाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:हल्दी–मेहंदी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e3-hi@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261121T133000Z
+DTEND:20261121T173000Z
+SUMMARY:संगीत संध्या · डॉ. भरत संग 
+ डॉ. मुग्धा
+LOCATION:रमाडा\, राजा पार्क\, जयपुर
+DESCRIPTION:सायं 7 बजे से\nडॉ. भरत संग 
+ डॉ. मुग्धा — शुभ विवाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:संगीत संध्या
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e4-hi@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T013000Z
+DTEND:20261122T033000Z
+SUMMARY:लावाँ फेरे · डॉ. भरत संग डॉ.
+  मुग्धा
+LOCATION:गुरुद्वारा श्री गुरु सिं
+ ह सभा\, जवाहर नगर\, जयपुर
+DESCRIPTION:प्रातः 7 बजे\nडॉ. भरत संग ड
+ ॉ. मुग्धा — शुभ विवाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:लावाँ फेरे
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e5-hi@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T050000Z
+DTEND:20261122T063000Z
+SUMMARY:सेहराबंदी एवं घुड़चढ़ी · 
+ डॉ. भरत संग डॉ. मुग्धा
+LOCATION:मंदिर श्री स्वामी श्री ग
+ ंगादास जी महाराज\, जयपुर
+DESCRIPTION:प्रातः 10:30 बजे\nडॉ. भरत संग
+  डॉ. मुग्धा — शुभ विवाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:सेहराबंदी एवं घुड़चढ़ी
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e6-hi@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T064500Z
+DTEND:20261122T074500Z
+SUMMARY:वरमाला · डॉ. भरत संग डॉ. मुग
+ ्धा
+LOCATION:रमाडा\, राजा पार्क\, जयपुर
+DESCRIPTION:दोपहर 12:15 बजे से\nडॉ. भरत स
+ ंग डॉ. मुग्धा — शुभ विवाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:वरमाला
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e7-hi@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T074500Z
+DTEND:20261122T084500Z
+SUMMARY:पाणिग्रहण संस्कार · डॉ. भर
+ त संग डॉ. मुग्धा
+LOCATION:रमाडा\, राजा पार्क\, जयपुर
+DESCRIPTION:दोपहर 1:15 बजे से\nडॉ. भरत सं
+ ग डॉ. मुग्धा — शुभ विवाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:पाणिग्रहण संस्कार
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e8-hi@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T084500Z
+DTEND:20261122T114500Z
+SUMMARY:प्रीतिभोज एवं आशीर्वाद स
+ मारोह · डॉ. भरत संग डॉ. मुग्धा
+LOCATION:रमाडा\, राजा पार्क\, जयपुर
+DESCRIPTION:दोपहर 2:15 बजे से\nडॉ. भरत सं
+ ग डॉ. मुग्धा — शुभ विवाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:प्रीतिभोज एवं आशीर्वाद 
+ समारोह
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e9-hi@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T114500Z
+DTEND:20261122T131500Z
+SUMMARY:डोली एवं विदाई · डॉ. भरत सं
+ ग डॉ. मुग्धा
+LOCATION:रमाडा\, राजा पार्क\, जयपुर
+DESCRIPTION:सायं 5:15 बजे\nडॉ. भरत संग डॉ
+ . मुग्धा — शुभ विवाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:डोली एवं विदाई
+END:VALARM
+END:VEVENT
+END:VCALENDAR

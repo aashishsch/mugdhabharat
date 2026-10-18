@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bharat-Mugdha//Shubh Vivah//HI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:डॉ. भरत संग डॉ. मुग्धा — श
+ ुभ विवाह
+BEGIN:VEVENT
+UID:e4-hi@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T013000Z
+DTEND:20261122T033000Z
+SUMMARY:लावाँ फेरे · डॉ. भरत संग डॉ.
+  मुग्धा
+LOCATION:गुरुद्वारा श्री गुरु सिं
+ ह सभा\, जवाहर नगर\, जयपुर
+DESCRIPTION:प्रातः 7 बजे\nडॉ. भरत संग ड
+ ॉ. मुग्धा — शुभ विवाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:लावाँ फेरे
+END:VALARM
+END:VEVENT
+END:VCALENDAR

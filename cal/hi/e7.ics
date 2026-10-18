@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bharat-Mugdha//Shubh Vivah//HI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:डॉ. भरत संग डॉ. मुग्धा — श
+ ुभ विवाह
+BEGIN:VEVENT
+UID:e7-hi@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T074500Z
+DTEND:20261122T084500Z
+SUMMARY:पाणिग्रहण संस्कार · डॉ. भर
+ त संग डॉ. मुग्धा
+LOCATION:रमाडा\, राजा पार्क\, जयपुर
+DESCRIPTION:दोपहर 1:15 बजे से\nडॉ. भरत सं
+ ग डॉ. मुग्धा — शुभ विवाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:पाणिग्रहण संस्कार
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bharat-Mugdha//Shubh Vivah//HI
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:डॉ. भरत संग डॉ. मुग्धा — श
+ ुभ विवाह
+BEGIN:VEVENT
+UID:e5-hi@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T050000Z
+DTEND:20261122T063000Z
+SUMMARY:सेहराबंदी एवं घुड़चढ़ी · 
+ डॉ. भरत संग डॉ. मुग्धा
+LOCATION:मंदिर श्री स्वामी श्री ग
+ ंगादास जी महाराज\, जयपुर
+DESCRIPTION:प्रातः 10:30 बजे\nडॉ. भरत संग
+  डॉ. मुग्धा — शुभ विवाह
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:सेहराबंदी एवं घुड़चढ़ी
+END:VALARM
+END:VEVENT
+END:VCALENDAR
