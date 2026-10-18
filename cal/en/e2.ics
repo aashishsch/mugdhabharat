@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bharat-Mugdha//Shubh Vivah//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dr. Bharat weds Dr. Mugdha — Shubh Vivah
+BEGIN:VEVENT
+UID:e2-en@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261121T053000Z
+DTEND:20261121T093000Z
+SUMMARY:Haldi–Mehndi · Dr. Bharat weds Dr. Mugdha
+LOCATION:Ramada\, Raja Park\, Jaipur
+DESCRIPTION:11 AM onwards · Lunch: 1 PM onwards\nDr. Bharat weds Dr. Mugdh
+ a — Shubh Vivah
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Haldi–Mehndi
+END:VALARM
+END:VEVENT
+END:VCALENDAR

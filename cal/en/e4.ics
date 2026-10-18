@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bharat-Mugdha//Shubh Vivah//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dr. Bharat weds Dr. Mugdha — Shubh Vivah
+BEGIN:VEVENT
+UID:e4-en@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T013000Z
+DTEND:20261122T033000Z
+SUMMARY:Laanvaa Phere · Dr. Bharat weds Dr. Mugdha
+LOCATION:Gurudwara Shri Guru Singh Sabha\, Jawahar Nagar\, Jaipur
+DESCRIPTION:7 AM\nDr. Bharat weds Dr. Mugdha — Shubh Vivah
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Laanvaa Phere
+END:VALARM
+END:VEVENT
+END:VCALENDAR

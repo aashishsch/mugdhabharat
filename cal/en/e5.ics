@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Bharat-Mugdha//Shubh Vivah//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Dr. Bharat weds Dr. Mugdha — Shubh Vivah
+BEGIN:VEVENT
+UID:e5-en@bharat-mugdha-wedding
+DTSTAMP:20261018T094117Z
+DTSTART:20261122T050000Z
+DTEND:20261122T063000Z
+SUMMARY:Sehrabandi & Ghurchadi · Dr. Bharat weds Dr. Mugdha
+LOCATION:Mandir Shri Swami Shri Gangadas Ji Maharaj\, Jaipur
+DESCRIPTION:10:30 AM\nDr. Bharat weds Dr. Mugdha — Shubh Vivah
+BEGIN:VALARM
+TRIGGER:-PT2H
+ACTION:DISPLAY
+DESCRIPTION:Sehrabandi & Ghurchadi
+END:VALARM
+END:VEVENT
+END:VCALENDAR
